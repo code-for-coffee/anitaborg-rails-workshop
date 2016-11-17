@@ -41,3 +41,14 @@ If you run into a problem we will do our best to assist you throughout this work
 ###### Pre-Workshop Troubleshooting :scream_cat:
 
 If you run into any issues prior to the workshop, please [open a new issue](https://github.com/code-for-coffee/anitaborg-rails-workshop/issues/new) on Github (requires account registration) and copy/paste as much data as you can. Please also list your operating system, type of machine, and which guide(s) you followed to install Rails.
+
+## Workshop Breakdown
+
+- 09:30am - Introduction, MVC, and the big picture: PositiveCharge app
+- 10:00am - Getting started: Database first application design
+- 11:15am - Break
+- 11:30am - Allow users to login and save data
+- 12:30pm - Break
+- 01:00pm - Display data to the general public & Conclusion
+- 01:30pm - Wrap-up
+
