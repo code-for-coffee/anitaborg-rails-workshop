@@ -54,6 +54,7 @@ If you run into any issues prior to the workshop, please [open a new issue](http
 
 ## Resources
 
+- Screencast of Rails app creation: https://vimeo.com/192266877
 - Slide Deck: https://presentations.generalassemb.ly/64314ee3723c5bd0a6690b8f301b5641 (left/right arrow to navigate)
 - Slide Deck Source: https://gist.github.com/code-for-coffee/64314ee3723c5bd0a6690b8f301b5641
 
