@@ -1,0 +1,2 @@
+class Oneup < ApplicationRecord
+end

@@ -1,0 +1,1 @@
+json.array! @cheerups, partial: 'cheerups/cheerup', as: :cheerup

@@ -1,0 +1,1 @@
+json.partial! "cheerups/cheerup", cheerup: @cheerup

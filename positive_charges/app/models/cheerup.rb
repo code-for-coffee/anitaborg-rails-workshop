@@ -1,0 +1,2 @@
+class Cheerup < ApplicationRecord
+end
