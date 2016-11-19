@@ -1,4 +1,6 @@
 class CheerupsController < ApplicationController
+
+  before_filter :authorize
   before_action :set_cheerup, only: [:show, :edit, :update, :destroy]
 
   # GET /cheerups
